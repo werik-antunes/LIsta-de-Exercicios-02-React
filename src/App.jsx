@@ -1,14 +1,14 @@
 
 import './App.css'
-import Saudacao from './components/Saudacao'
+import Contador from './components/Contador'
+
 
 function App() {
   
 
   return (
     <>
-      <Saudacao nome = "werik"/>
-      <Saudacao nome = "Talita"/>
+     <Contador/>
     </>
   )
 }
