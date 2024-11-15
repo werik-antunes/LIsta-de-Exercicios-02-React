@@ -1,6 +1,7 @@
 
 import './App.css'
-import Contador from './components/Contador'
+import ToggleTema from './components/ToggleTema '
+
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
 
   return (
     <>
-     <Contador/>
+     <ToggleTema/>
     </>
   )
 }
