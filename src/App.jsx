@@ -1,6 +1,7 @@
 
 import './App.css'
-import ToggleTema from './components/ToggleTema '
+import Cadastro from './components/Cadastro'
+
 
 
 
@@ -9,7 +10,7 @@ function App() {
 
   return (
     <>
-     <ToggleTema/>
+     <Cadastro/>
     </>
   )
 }
